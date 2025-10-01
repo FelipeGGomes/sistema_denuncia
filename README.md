@@ -33,8 +33,7 @@ Clone o repositório:
 
 Bash
 
-git clone [LINK_DO_SEU_REPOSITORIO]
-cd sistema_denuncias
+git clone cd sistema_denuncias
 Crie e ative o ambiente virtual:
 
 Bash
@@ -45,9 +44,8 @@ Instale as dependências:
 
 Bash
 
-pip install -r requirements.txt # (Se você tiver um arquivo requirements.txt)
-# OU
-pip install django xhtml2pdf Pillow # Instalação manual das principais libs
+pip install -r requirements.txt 
+pip install django xhtml2pdf Pillow
 Execute as migrações:
 
 Bash
