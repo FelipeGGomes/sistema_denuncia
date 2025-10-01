@@ -1,8 +1,6 @@
-# sistema_denuncia
-Sistema de Denúncias Anônima
-
 
 🛡️ Sistema de Denúncias Anônimas Comunitárias
+
 📝 Descrição do Projeto
 O Sistema de Denúncias Anônimas Comunitárias é uma aplicação web desenvolvida em Django que visa facilitar e centralizar a comunicação de problemas urbanos e de segurança dentro de bairros e comunidades. O foco principal é garantir o anonimato e a segurança do cidadão, ao mesmo tempo em que oferece uma ferramenta eficaz para o acompanhamento e resolução de problemas pela administração local.
 
